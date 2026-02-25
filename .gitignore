@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+logs/
+
+# Data and checkpoints
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
